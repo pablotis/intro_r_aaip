@@ -43,8 +43,8 @@ navbar:
         - text: "Modulo 03 - Herramientas para la vizualizacion de datos"
     - text: "Datos"
       menu:
-        - text: "relevamiento_indice_transparencia_2024.xlsx"
+        #- text: "relevamiento_indice_transparencia_2024.xlsx"
           #href: datos/relevamiento_indice_transparencia_2024.xlsx
-        - text: "salida_visualizaciones.xlsx"
+        #- text: "salida_visualizaciones.xlsx"
           #href: datos/output_visualizaciones_2024-07-23.xlsx
 output: distill::distill_article
