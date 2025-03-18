@@ -24,9 +24,9 @@ __Cantidad de encuentros:__ 5.
 
 __Cantidad de horas por encuentro:__ 2hs.
 
-__Día y horario de cursada:__ Miércoles, de 14:30 a 15:30hs y Viernes de 11 a 13hs.
+__Día y horario de cursada:__ Martes y jueves, de 15:00 a 17 hs.
   
-__Fecha de inicio__: Miércoles 24 de Julio de 2024.
+__Fecha de inicio__: Martes 18 de marzo de 2025.
 
-__Fecha de finalización__: Miércoles 7 de agosto de 2024
+__Fecha de finalización__: Martes 1ro de abril de 2025
 
