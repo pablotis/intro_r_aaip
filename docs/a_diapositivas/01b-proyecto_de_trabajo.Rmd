@@ -141,7 +141,7 @@ class: inverse, center, middle, hide-logo
 #install.packages("rio")
 library(rio)
 
-base_ind_transp <- import(file = "datos/relevamiento_indice_transparencia_2024.xlsx")
+base_ind_transp <- import(file = "datos/2025-02-11_LIMPIA-reclamos.csv")
 ```
 
 ---
@@ -151,7 +151,7 @@ base_ind_transp <- import(file = "datos/relevamiento_indice_transparencia_2024.x
 
 ``` r
 library(rio)
-base_ind_transp <- import(file = "/home/pablote/Documentos/datos/relevamiento_indice_transparencia_2024.xlsx")
+base_ind_transp <- import(file = "/home/pablote/Documentos/datos/2025-02-11_LIMPIA-reclamos.csv")
 ```
 
 ---
@@ -161,7 +161,7 @@ base_ind_transp <- import(file = "/home/pablote/Documentos/datos/relevamiento_in
 
 ``` r
 library(rio)
-base_ind_transp <- import(file = "/home/pablote/Documentos/datos/relevamiento_indice_transparencia_2024.xlsx")
+base_ind_transp <- import(file = "/home/pablote/Documentos/datos/2025-02-11_LIMPIA-reclamos.csv")
 ```
 
 <br>
@@ -170,7 +170,7 @@ base_ind_transp <- import(file = "/home/pablote/Documentos/datos/relevamiento_in
 
 ``` r
 library(rio)
-base_ind_transp <- import(file = "datos/relevamiento_indice_transparencia_2024.xlsx")
+base_ind_transp <- import(file = "datos/2025-02-11_LIMPIA-reclamos.csv")
 ```
 
 ---
@@ -182,7 +182,7 @@ base_ind_transp <- import(file = "datos/relevamiento_indice_transparencia_2024.x
 
     -   📂 datos
 
-        -   ⛁ *nrelevamiento_indice_transparencia_2024.xlsx*
+        -   ⛁ *2025-02-11_LIMPIA-reclamos.csv*
 
     -   📂 outputs
 

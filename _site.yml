@@ -27,7 +27,7 @@ navbar:
         - text: "Módulo I - Introducción a R"
           href: a_diapositivas/01a-intro_a_r.html
         - text: "Módulo II - Proyectos de trabajo"
-          #href: a_diapositivas/01b-proyecto_de_trabajo.html
+          href: a_diapositivas/01b-proyecto_de_trabajo.html
         - text: "Módulo III - Procesamiento de datos"
           #href: a_diapositivas/02-procesamiento_de_datos.html
         - text: "Modulo IV - Visualizacion de datos"
