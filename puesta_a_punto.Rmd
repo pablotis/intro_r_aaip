@@ -29,7 +29,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 > Si no tiene R y RStudio instalados
 
-- Descargue R del sitio web [CRAN](cran.r-project.org/bin/windows/base/release.htm).
+- Descargue R del sitio web [CRAN](https://cran.r-project.org/bin/windows/base/).
 
 - Ejecute el archivo `.exe` que acaba de descargar
 
@@ -97,4 +97,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Descarga de Slack (versión escritorio)
 
-En este curso vamos autilizar Slack, una plataforma de intercambio que funciona como un chat-foro. Desde allí es posible concentrar la comunicación del curso, difundir material, código como también realizar consultas y respuestas de forma grupal. [Aquí podes descargar](https://slack.com/intl/es-mx/downloads/l) la aplicación para tu sistema operativo.
+En este curso vamos autilizar Slack, una plataforma de intercambio que funciona como un chat-foro. Desde allí es posible concentrar la comunicación del curso, difundir material, código como también realizar consultas y respuestas de forma grupal. [Aquí podes descargar](https://slack.com/intl/es-mx/downloads/) la aplicación para tu sistema operativo.
